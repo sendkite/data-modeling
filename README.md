@@ -16,6 +16,7 @@
 
 - [챕터 1 모델링?](https://github.com/sendkite/data-modeling/blob/main/chaper01/chapter01.md)
 - [챕터 2 데이터를 이해한다는 것](https://github.com/sendkite/data-modeling/blob/main/chapter02/chapter02.md)
+- [챕터 9 데이터 구조 읽기](https://github.com/sendkite/data-modeling/blob/main/chapter09/chapter09-data.md)
 
 중간 점검 
 + 요약
