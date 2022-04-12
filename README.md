@@ -24,8 +24,14 @@
   + 언제, 누가, 어떤 행위를, 누구와, 무엇을 하는지를 생각하면서 데이터 설계해야함
   + 행위를 중점으로 큰 맥락을 보고 이해할 수 있어야한다고 함 (큰 그림 그리네)
 
-    
-내가 원하는 내용은 9장 10장에 있는 듯... 
 
+- [챕터 10 Account](https://github.com/sendkite/data-modeling/blob/main/chapter09/chapter10-data.md)
+- [챕터 11 분리와 통합](https://github.com/sendkite/data-modeling/blob/main/chapter09/chapter11.md)
+
++ 요약
+  + 데이터 모델링 잘하려면? 
+    + 최상위 주체를 찾아서 나누자 (분류) 
+    + 유형별로 나누자 (분류)
+    + 다 나눴으면 트랜잭션 단위로 통합, 분리하자
 
 </details>

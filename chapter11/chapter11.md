@@ -46,4 +46,4 @@
   - 트랜잭션이 서브타입별로 발생 -> 분리
   - 트랜잭션이 슈퍼타입과 서브타입 전체를 대상으로 발생 -> 통합
 
-- ![핵심](https://github.com/sendkite/data-modeling/blob/main/chapter10/subtype.png)
+- ![핵심](https://github.com/sendkite/data-modeling/blob/main/chapter11/subtype.png)
