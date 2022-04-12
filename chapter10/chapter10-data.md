@@ -17,9 +17,12 @@ EX) 가족의 휴대폰 요금
 - 여기서 다수의 가족원을 묶어서 청구해주는 "최상위 주체"는 청구 계정이다. 
 
 
-- ![엔티티](https://github.com/sendkite/data-modeling/blob/main/chapter10/phone-entity.png)
+- ![핸드폰](https://github.com/sendkite/data-modeling/blob/main/chapter10/phone-entity.png)
+
 
 
 아래와 같은 그룹 관계로 최상위 주체 "Account"를 정의할 수 있다.
 
-- ![그룹 관계](https://github.com/sendkite/data-modeling/blob/main/chapter10/mannytomanny.png)
+- ![그룹 관계](https://github.com/sendkite/data-modeling/blob/main/chapter10/manytomany.png)
+
+

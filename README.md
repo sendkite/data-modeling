@@ -11,7 +11,7 @@
 
 
 <details>
-<summary>2022-04-07 챕터 1 ~ 4</summary>
+<summary>2022-04-07, 04-22 챕터 1 ~ 11</summary>
 
 
 - [챕터 1 모델링?](https://github.com/sendkite/data-modeling/blob/main/chaper01/chapter01.md)
@@ -25,8 +25,8 @@
   + 행위를 중점으로 큰 맥락을 보고 이해할 수 있어야한다고 함 (큰 그림 그리네)
 
 
-- [챕터 10 Account](https://github.com/sendkite/data-modeling/blob/main/chapter09/chapter10-data.md)
-- [챕터 11 분리와 통합](https://github.com/sendkite/data-modeling/blob/main/chapter09/chapter11.md)
+- [챕터 10 Account](https://github.com/sendkite/data-modeling/blob/main/chapter10/chapter10-data.md)
+- [챕터 11 분리와 통합](https://github.com/sendkite/data-modeling/blob/main/chapter11/chapter11.md)
 
 + 요약
   + 데이터 모델링 잘하려면? 
